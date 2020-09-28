@@ -1,0 +1,15 @@
+article.container{line-height: 1.8;}
+body{background:RGB(190, 227, 219);}
+body{color:RGB(85, 91, 110);}
+h1{font-family: "bradley hand";}
+h1{text-align: center;}
+h1{font-size: 40px;}
+img{float:left;}
+img{height:290px; width:400px; }
+.flex-container{display:flex;}
+.grid-container{display:grid;
+grid-template-rows: 200px 400px;
+grid-template-columns: auto auto auto auto;
+grid-gap: 10px; }
+div.xfiles{float:right;}
+
